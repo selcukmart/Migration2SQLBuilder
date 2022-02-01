@@ -1,6 +1,8 @@
 #Migration to SQLBuilder
 This library is for migration natural sql to sql builder format. It supports only first depth and general usage of sql.
-
+```
+composer require selcukmart/migration2sqlbuilder
+```
 ## USAGE
 ```php
 
